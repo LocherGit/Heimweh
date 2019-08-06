@@ -2,7 +2,7 @@
 ![Titlescreen](git_title.jpg)
 
 Heimweh is a Visual Novel that was created via RenPy in 2016 as a Bachelor project.
-This project was endorsed and motivated by the University of Heidelberg in cooperation with the Mannheim University of Applied Sciences.
+This project was endorsed and motivated by the University of Heidelberg in cooperation with the Mannheim University of Applied Sciences. This project took one whole semester to complete. (Summer Semester 2016)
 
 # Project Work
 - [RenPy](https://www.renpy.org/)
