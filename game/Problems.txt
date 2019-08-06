@@ -1,0 +1,43 @@
+- Dialogue Box shaking via https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=26818
+> Failed
+>Alternative: using "with vpunch/hpunch"
+
+- Changing a character name midgame
+> Using https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=12008&start=15
+> Errors
+> Using http://renpyhelpdesk.tumblr.com/post/102010716067/tutorials-so-what-was-your-name-again
+> It works!
+
+- Chapter transition needs additional layers with hierachical order
+> Using pe-defined layers screen, overlay etc
+> Not working!
+> Defining new layers using https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=10352
+> It works but I don't know how and why! <3
+
+- Using the same image twice within a scene
+> try the "as" statement
+> Not working! The documentary entry seems flawed.
+>Alternative: just define the same image twice with individual image-names
+
+- Using GIMP for image operations
+> Awesome for applying filters
+> Not useful for anything else
+>Alternative: Sticking to paint.net for everything else minus applying filters
+
+- Pause the audio and unpause it
+> Only stop statement existing, not a pause statement for audio / ren'py is not advanced enough for pause&continue flags
+> Could implement a dequeue and requeue of audio via prior used renpy.music.get_pos(channel='music') but too time-consuming and not what I was initially geared toward
+
+- Using the inbuild-function Snowblossom()
+> Old documentary is outdated, inexplicably explained and not detailled
+> Now copy-using the one from the tutorial
+
+- Changing the NVl-box midgame
+> Creating a special nvl character (not working as intended)
+
+- Side images and textbox getting glitched when trying to alternate left/right portraits using same side-picture
+> renaming definitions (doesnt work)
+> duplicating side-pictures (works as a workaround for now)
+
+- textbox hidden while animation
+> proved to be a minor artistic failure and not gamebreaking
